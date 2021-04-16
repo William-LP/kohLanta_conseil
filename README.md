@@ -18,4 +18,4 @@ http://localhost:5000/YOUR_NAME
 
 
 ## To do
-[ ] delete generated file
+- [ ] delete generated file
