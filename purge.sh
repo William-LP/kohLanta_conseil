@@ -1,0 +1,1 @@
+rm -f /home/appli/api-generated-images/*
