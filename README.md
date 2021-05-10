@@ -6,7 +6,7 @@
 
 ```bash
 docker build . kohlanta_conseil
-docker run -port 5000:5000 -d --rm kohlanta_conseil
+docker run -p 5000:5000 -d --rm kohlanta_conseil
 ```
 
 ### Python
